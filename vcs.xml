@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/tp231t/Simple-Weather-App.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kvp34/ProjectWeatherApp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\TechM User\AndroidStudioProjects" />
